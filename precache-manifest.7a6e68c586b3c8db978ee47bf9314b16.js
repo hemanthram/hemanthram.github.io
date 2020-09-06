@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07840f168302391113c83cb889966f8c",
+    "revision": "2a6731be18d127814c0b21684ce54010",
     "url": "/index.html"
   },
   {
-    "revision": "f027f7cc1d732c9ed8c8",
-    "url": "/static/css/main.d4da59f9.chunk.css"
+    "revision": "88eee1399d801c2e4d34",
+    "url": "/static/css/main.40ffe0ff.chunk.css"
   },
   {
-    "revision": "3fe4adf0c8d5f8f1f4cc",
-    "url": "/static/js/2.870d6a26.chunk.js"
+    "revision": "aa793b28d72ff0294b35",
+    "url": "/static/js/2.61d191cb.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/static/js/2.870d6a26.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.61d191cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f027f7cc1d732c9ed8c8",
-    "url": "/static/js/main.6db9b286.chunk.js"
+    "revision": "88eee1399d801c2e4d34",
+    "url": "/static/js/main.b0d5af25.chunk.js"
   },
   {
     "revision": "d0a598c2c4f910599d51",
     "url": "/static/js/runtime-main.e7310a31.js"
+  },
+  {
+    "revision": "0d13fa84754530a3fe38e77e49e4d509",
+    "url": "/static/media/codechef.0d13fa84.png"
+  },
+  {
+    "revision": "045a1d70c658f7472b3452a8c34f8669",
+    "url": "/static/media/codeforces.045a1d70.png"
   },
   {
     "revision": "0cb5a5c0d251c109458c85c6afeffbaa",
@@ -82,5 +90,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec763292e583294612f124c0b0def500",
     "url": "/static/media/fa-solid-900.ec763292.svg"
+  },
+  {
+    "revision": "ef6c49bbd8bfbffd895d690c0f15ea17",
+    "url": "/static/media/me1.ef6c49bb.jpg"
   }
 ]);
