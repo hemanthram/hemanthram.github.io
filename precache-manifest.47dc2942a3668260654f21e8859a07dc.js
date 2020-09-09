@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "815a531eaf908b2307fad7e6938e303b",
+    "revision": "acc1b13dcd3eafd46981acf1e93cd105",
     "url": "/index.html"
   },
   {
-    "revision": "10b9fe979e1a97b2aed9",
+    "revision": "d97e1a18ba29207f288a",
     "url": "/static/css/main.6be2e77c.chunk.css"
   },
   {
@@ -16,20 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.61d191cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10b9fe979e1a97b2aed9",
-    "url": "/static/js/main.c017a4d2.chunk.js"
+    "revision": "d97e1a18ba29207f288a",
+    "url": "/static/js/main.40b92144.chunk.js"
   },
   {
     "revision": "d0a598c2c4f910599d51",
     "url": "/static/js/runtime-main.e7310a31.js"
-  },
-  {
-    "revision": "0d13fa84754530a3fe38e77e49e4d509",
-    "url": "/static/media/codechef.0d13fa84.png"
-  },
-  {
-    "revision": "045a1d70c658f7472b3452a8c34f8669",
-    "url": "/static/media/codeforces.045a1d70.png"
   },
   {
     "revision": "0cb5a5c0d251c109458c85c6afeffbaa",
@@ -92,12 +84,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.ec763292.svg"
   },
   {
-    "revision": "4c03bfd7b8e2f0d300cb34034390ebf7",
-    "url": "/static/media/me3.4c03bfd7.jpg"
+    "revision": "61d00dfa132b08bb4937a46a25dd18b6",
+    "url": "/static/media/me3.61d00dfa.jpg"
   },
   {
-    "revision": "d375b47a33e45b18df9b4cf9b1992269",
-    "url": "/static/media/project1.d375b47a.png"
+    "revision": "2b51f0616111a90ed779c460a6dee78e",
+    "url": "/static/media/project1.2b51f061.png"
   },
   {
     "revision": "90d4147ead0ae9c371da707860cb52a0",
